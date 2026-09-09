@@ -6,18 +6,10 @@ This project is a currency converter that allows users to convert Brazilian Real
 
 ## Layout ✏️
 
-The layout for this project was created by Rocketseat using Figma. You can view the layout file and its components by visiting the following link: [Figma Layout](https://www.figma.com/design/ggoBg38CTx4Ul9W59YaERW/Conversor-de-Moedas-(Community)?node-id=0-1&node-type=canvas&m=dev).
+The layout for this project was created by Rocketseat using Figma. You can view the layout file and its components by visiting the following link: [Figma Layout](https://www.figma.com/community/file/1360315742205904074/conversor-de-moedas).
 
 The layout showcases the structure, color scheme, and visual design of the recipe page, providing a clear reference for the development of the project.
  
-<br>
-
-## Project Features ✨
-
-- Currency Conversion: Easily convert Brazilian Real to USD, EUR, or GBP.
-- Interactive Functionality: Using JavaScript.
-- Visual Assets: Includes images to enhance the user interface.
-
 <br>
 
 ## File Structure 🗂️
@@ -45,3 +37,10 @@ The layout showcases the structure, color scheme, and visual design of the recip
 ## Contributing 🤝
 
 Feel free to contribute to this project by submitting issues or pull requests. Your feedback and suggestions are always welcome!
+
+
+<br>
+
+## Notes 📌
+
+The currency exchange rates are static and are not updated in real time. Therefore, the converted prices may differ from the actual prices based on current exchange rates.
