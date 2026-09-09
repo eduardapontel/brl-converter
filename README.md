@@ -17,7 +17,7 @@ The layout showcases the structure, color scheme, and visual design of the recip
 - ```index.html```: Defines the structure of the web page.
 - ```styles.css```: Handles the styling and layout of the project.
 - ```script.js```: Implements the conversion logic and interactivity.
-- ```img/```: Contains image resources used in the project.
+- ```img/```: Contains image resources used in the project. 
 
 <br>
 
