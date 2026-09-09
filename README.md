@@ -14,10 +14,10 @@ The layout showcases the structure, color scheme, and visual design of the recip
 
 ## File Structure 🗂️
 
-- index.html: Defines the structure of the web page.
-- styles.css: Handles the styling and layout of the project.
-- script.js: Implements the conversion logic and interactivity.
-- img/: Contains image resources used in the project.
+- ```index.html```: Defines the structure of the web page.
+- ```styles.css```: Handles the styling and layout of the project.
+- ```script.js```: Implements the conversion logic and interactivity.
+- ```img/```: Contains image resources used in the project.
 
 <br>
 
@@ -28,7 +28,9 @@ The layout showcases the structure, color scheme, and visual design of the recip
 **Or** follow the steps below to run it locally:
 
 - Clone the repository:
-   ```bash git clone https://github.com/eduardapontel/brl-converter.git```
+   ```bash
+     git clone https://github.com/eduardapontel/brl-converter.git
+   ```
 
 - Open `index.html` in your browser.
 
