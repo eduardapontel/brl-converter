@@ -1,4 +1,4 @@
-# Reais Converter 💸
+# BRL Converter 💸
 
 This project is a currency converter that allows users to convert Brazilian Real (BRL) into three major currencies: US Dollar (USD), Euro (EUR), and British Pound (GBP). The page integrates HTML, CSS, and JavaScript to provide a clean user interface and an interactive experience.
 
@@ -23,12 +23,12 @@ The layout showcases the structure, color scheme, and visual design of the recip
 
 ## How to Access the Project 🚀
 
-- Access it directly by clicking [here](https://eduardapontel.github.io/reais-converter/).
+- Access it directly by clicking [here](https://eduardapontel.github.io/brl-converter/).
 
 **Or** follow the steps below to run it locally:
 
 - Clone the repository:
-   ```bash git clone https://github.com/eduardapontel/reais-converter.git```
+   ```bash git clone https://github.com/eduardapontel/brl-converter.git```
 
 - Open `index.html` in your browser.
 
